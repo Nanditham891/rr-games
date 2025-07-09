@@ -9,5 +9,3 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
-<body style={{ margin: 0, padding: 0, overflowX: "hidden" }}>
-</body>
